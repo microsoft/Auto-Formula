@@ -6,16 +6,15 @@
 
 ## Overview
 
-This benchmark dataset contains real Excel spreadsheets, cralwed from the public web in 3 domains: 
+This benchmark dataset contains real Excel spreadsheets from 4 enterprise domains (3 of which are cralwed from the public web): 
 - Cisco (cisco.com)
 - PGE (pge.com)
 - TI (ti.com)
-- Enron (this is from the publicly available Enron spreadsheet dataset https://github.com/SheetJS/enron_xls)
+- Enron (we reuse the publicly available Enron spreadsheet dataset, obtained from https://github.com/SheetJS/enron_xls)
 
+In our study  [1] to predict formulas that users want to author in a target spreadsheet cell (using the actual formula in the target cell as the ground-truth), we test different algorithms using real formulas extracted from the spreadsheets of the 4 enterprise domains above, to test algorithms to accurately predict formulas that users would type in a spreadsheet cell.
 
-We used real formulas extracted from the aforementioned spreadsheets, to test different algorithms' ability to predict and recommend formulas that users want to author in a target spreadsheet cell (using the actual formula in the cell as the ground-truth) [1]. 
-
-We hope the release of this spreadsheet data set can facilitate futureu research on related topics.
+We hope the release of this spreadsheet dataset can facilitate futureu research in this and other related directions.
 
 
 ## Data link
