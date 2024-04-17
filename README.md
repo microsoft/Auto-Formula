@@ -53,6 +53,9 @@ benchmark
 │   │   formulas.json
 ```
 
+Each folder contains a "formulas.json" file, with the list of formulas sampled as test cases, where the format is "spreadsheet-file-name"---"sheet-name"---"row-id"---"col-id" (e.g., "244228682981234450530384331754331956360-mls-mqc-qos-converter-v1.xlsx---MQCt
+oMLSQOS---19---15").
+
 
 ## License
 
