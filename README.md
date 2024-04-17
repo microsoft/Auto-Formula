@@ -1,5 +1,6 @@
 
-# Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations (Benchmark spreadsheet dataset)
+# Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations 
+## (Benchmark spreadsheet dataset)
 
  
 
