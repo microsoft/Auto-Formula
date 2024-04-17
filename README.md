@@ -22,6 +22,28 @@ We hope the release of this spreadsheet dataset can facilitate futureu research 
 Data can be downloaded from [this link](https://1drv.ms/f/s!AkvY8ho1gepOiptfygjBTFLp_V3rtg). 
 
 
+## Folder structure
+
+```
+benchmark
+└───Enron
+│   └───random
+│   └───timestamp
+│   │   formulas.json
+└───Cisco
+│   └───random
+│   └───timestamp
+│   │   formulas.json
+└───PGE
+│   └───random
+│   └───timestamp
+│   │   formulas.json
+└───TI
+│   └───random
+│   └───timestamp
+│   │   formulas.json
+```
+
 
 ## License
 
