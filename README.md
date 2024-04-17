@@ -12,7 +12,7 @@ This benchmark dataset contains real Excel spreadsheets from 4 enterprise domain
 - TI (ti.com)
 - Enron (we reuse the publicly available Enron spreadsheet dataset, obtained from https://github.com/SheetJS/enron_xls)
 
-In our study  [1](https://github.com/microsoft/Auto-Formula?tab=readme-ov-file#reference) to predict formulas that users want to author in a target spreadsheet cell (using the actual formula in the target cell as the ground-truth), we test different algorithms using real formulas extracted from the spreadsheets of the 4 enterprise domains above, to test algorithms to accurately predict formulas that users would type in a spreadsheet cell.
+In our study  [1] below to predict formulas that users want to author in a target spreadsheet cell (using the actual formula in the target cell as the ground-truth), we test different algorithms using real formulas extracted from the spreadsheets of the 4 enterprise domains above, to test algorithms to accurately predict formulas that users would type in a spreadsheet cell.
 
 We hope the release of this spreadsheet dataset can facilitate futureu research in this and other related directions.
 
@@ -43,6 +43,7 @@ benchmark
 │   └───timestamp
 │   │   formulas.json
 ```
+![image](https://github.com/microsoft/Auto-Formula/assets/37452189/a796660f-3e2a-4eb2-8105-70c1d552abec)
 
 
 ## License
