@@ -1,4 +1,3 @@
-===============
 
 # Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations
 
@@ -66,4 +65,3 @@ This data set is released under the [MICROSOFT RESEARCH LICENSE](https://github.
 
 [1] Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations. [TOFILL](TOFILL).
 
-===============
