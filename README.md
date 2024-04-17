@@ -1,10 +1,8 @@
 
 # Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations 
-## (Benchmark spreadsheet dataset)
-
  
 
-## Overview
+## Benchmark overview
 
 This benchmark dataset contains real Excel spreadsheets from 4 enterprise domains (3 of which are cralwed from the public web): 
 - Cisco (cisco.com)
